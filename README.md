@@ -10,7 +10,7 @@ git clone https://github.com/xNetting/Basic-GenPass
 
 cd Basic-GenPass
 
-python3 .py
+python3 GenWordList.py
 
 ```
 
